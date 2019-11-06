@@ -1,0 +1,9 @@
+For next time you're having conflicts between branches, this is how you do it. 
+
+Go to terminal.
+Check "git status" to see what files need fixing
+Do "git add" and then specifiy file name (i.e. BankAccount.java)
+Do "git commit -m" and then add commit message in quotes
+Do "git push" and push the files to the master branch. 
+
+- Gillian
